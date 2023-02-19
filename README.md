@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋 I'm Pietro Montresori
+
+- Msc in Data Science and Engineering at Politecnico di Torino
+- BS in Industrial Engineering at Univerisità di Bologna
+- Reach me on Linkedin www.linkedin.com/in/pietromontresori
+
 
 <!--
 **Pietro1999IT/Pietro1999IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
